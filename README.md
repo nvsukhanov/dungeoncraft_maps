@@ -1,1 +1,1 @@
-# dungeoncraft_maps
+This repository includes maps I created for my DungeonCraft DnD sessions. They are free to use, modify, and share under the **[Creative Commons Attribution 4.0 License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)**.
